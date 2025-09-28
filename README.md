@@ -27,8 +27,6 @@ Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por 
 
 - **Otros Conocimientos** <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-<br>
-
 ##
 
 <div align="center">
