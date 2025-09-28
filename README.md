@@ -34,8 +34,9 @@ Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por 
 ###
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Niiw-dev/Niiw-dev/output/snake.svg?palette=github-dark)
+
+<img src="https://raw.githubusercontent.com/Niiw-dev/Niiw-dev/output/snake.svg#gh-light-mode-only" alt="Snake (light)" />
+<img src="https://raw.githubusercontent.com/Niiw-dev/Niiw-dev/output/snake-dark.svg#gh-dark-mode-only" alt="Snake (dark)" />
 
 </div>
 
