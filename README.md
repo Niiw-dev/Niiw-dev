@@ -34,7 +34,7 @@ Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Niiw-dev/Niiw-dev/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Niiw-dev/Niiw-dev/output/snake-dark.svg" alt="Snake animation dark"/>
 </div>
 
 ###
