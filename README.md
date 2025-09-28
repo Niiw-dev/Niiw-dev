@@ -1,7 +1,7 @@
 # <center> 👋 Hola!, Soy Edwin Correa 😄</center>
-##### <center>⚡Ingeniero Electrónico | Analísta y Desarrollador de Software 💻
+##### <div align=center>⚡Ingeniero Electrónico | Analísta y Desarrollador de Software 💻
 <center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niiw-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</center></center>
+</center></div>
 
 ## 💎 Acerca de mí:
 Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por lo que hago. Estoy altamente enfocado y dedicado a entregar los mejores resultados. Mi objetivo siempre es crear aplicaciones funcionales y fáciles de usar, y realmente disfruto cada paso del proceso. Estoy comprometido con el aprendizaje continuo y el crecimiento en este campo en constante evolución, siendo versátil y resiliente, capaz de desarrollarme en cualquier escenario.
