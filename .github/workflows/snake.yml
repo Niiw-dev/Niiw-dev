@@ -21,9 +21,7 @@ jobs:
         with:
           github_user_name: Niiw-dev
           outputs: dist/snake-dark.svg
-          color_snake: "#00FF00"
-          color_dots: "#1E1E1E #2D2D2D #3C3C3C #4B4B4B #5A5A5A"
-
+          palette: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
