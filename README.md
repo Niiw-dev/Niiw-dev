@@ -23,15 +23,7 @@ Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por 
 
 - **Otros Conocimientos** <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) 
 
-
-## 
-<div align=center> 
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/niiw.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&)](https://linkedin.com/in/www.linkedin.com/in/niiw-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niiw.dev@gmail.com) 
-
-</div>
-
-###
+##
 
 <div align="center">
 
@@ -40,4 +32,11 @@ Soy un Ingeniero Electrónico orientado hacia el desarrollo web, apasionado por 
 
 </div>
 
-###
+## 
+<div align=center> 
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/niiw.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&)](https://linkedin.com/in/www.linkedin.com/in/niiw-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niiw.dev@gmail.com) 
+
+</div>
+
+
