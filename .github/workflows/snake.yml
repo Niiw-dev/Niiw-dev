@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: Niiw-dev
           outputs: dist/snake-dark.svg
